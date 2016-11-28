@@ -27,3 +27,5 @@ namespace _03.CorrectBrackets
         }
     }
 }
+
+//IMPORTANT!!! - The solution is only calculate number of brackets, and if you test with: "(text))text(" , the result will be "Correct", which is NOT correct answer!
